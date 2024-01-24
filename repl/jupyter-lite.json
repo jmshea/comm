@@ -3,12 +3,11 @@
     "jupyter-config-data": {
       "disabledExtensions": [
         "@jupyterlab/drawio-extension",
-        "@jupyterlite/javascript-kernel-extension",
-        "@jupyterlite/xeus-lua-kernel-extension",
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
       ]
     },
-    "contentsStorageName": "JupyterLite 4514 Storage"
+    "contentsStorageName": "JupyterLite 4514 Storage",
+    "c.KernelSpecManager.whitelist" : ["pyodide"]
   }
   
