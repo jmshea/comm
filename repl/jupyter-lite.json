@@ -6,6 +6,7 @@
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
       ]
-    }
+    },
+    "contentsStorageName": "JupyterLite 4514 Storage"
   }
   
